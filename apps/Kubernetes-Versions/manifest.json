@@ -1,0 +1,17 @@
+{
+  "name": "Shenv",
+  "description": "Access Shenv",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/shenv/shenv"
+    ],
+    "launch": {
+      "web_url": "https://github.com/shenv/shenv"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

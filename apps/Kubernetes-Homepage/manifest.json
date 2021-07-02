@@ -1,0 +1,17 @@
+{
+  "name": "Bash Homepage",
+  "description": "Access Bash",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.gnu.org/software/bash/"
+    ],
+    "launch": {
+      "web_url": "https://www.gnu.org/software/bash/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

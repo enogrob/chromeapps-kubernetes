@@ -1,0 +1,17 @@
+{
+  "name": "Bash Wikipedia",
+  "description": "Access Bash Wikipedia",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+    ],
+    "launch": {
+      "web_url":"https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

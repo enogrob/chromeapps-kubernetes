@@ -1,0 +1,17 @@
+{
+  "name": "Bash Awesome",
+  "description": "Access Bash Awesome",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/alebcay/awesome-shell"
+    ],
+    "launch": {
+      "web_url": "https://github.com/alebcay/awesome-shell"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

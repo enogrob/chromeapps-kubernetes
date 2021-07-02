@@ -1,0 +1,17 @@
+{
+  "name": "Bash API",
+  "description": "Access Bash API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.gnu.org/software/bash/manual/html_node/index.html"
+    ],
+    "launch": {
+      "web_url": "https://www.gnu.org/software/bash/manual/html_node/index.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
