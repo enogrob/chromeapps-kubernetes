@@ -1,14 +1,14 @@
 {
-  "name": "Kubernetes",
-  "description": "Access Kubernetes",
+  "name": "Katacoda",
+  "description": "Access Katacoda",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://kubernetes.io"
+      "https://www.katacoda.com"
     ],
     "launch": {
-      "web_url": "https://kubernetes.io"
+      "web_url": "https://www.katacoda.com"
     }
   },
   "icons": {

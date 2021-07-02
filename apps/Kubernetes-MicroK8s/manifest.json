@@ -1,14 +1,14 @@
 {
-  "name": "Kubernetes",
-  "description": "Access Kubernetes",
+  "name": "MicroK8s",
+  "description": "Access MicroK8s",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://kubernetes.io"
+      "https://microk8s.io"
     ],
     "launch": {
-      "web_url": "https://kubernetes.io"
+      "web_url": "https://microk8s.io"
     }
   },
   "icons": {

@@ -1,14 +1,14 @@
 {
-  "name": "Bash Wikipedia",
-  "description": "Access Bash Wikipedia",
+  "name": "Kubernetes Wikipedia",
+  "description": "Access Kubernetes Wikipedia",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+      "https://en.wikipedia.org/wiki/Kubernetes"
     ],
     "launch": {
-      "web_url":"https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
+      "web_url":"https://en.wikipedia.org/wiki/Kubernetes"
     }
   },
   "icons": {

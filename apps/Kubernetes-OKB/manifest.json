@@ -1,0 +1,17 @@
+{
+  "name": "OKB",
+  "description": "Access OKB",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.openkb.info/search/label/Kubernetes"
+    ],
+    "launch": {
+      "web_url": "http://www.openkb.info/search/label/Kubernetes"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

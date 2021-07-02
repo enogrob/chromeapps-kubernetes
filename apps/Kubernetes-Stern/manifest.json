@@ -1,14 +1,14 @@
 {
-  "name": "Shenv",
-  "description": "Access Shenv",
+  "name": "Stern",
+  "description": "Access Stern",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://github.com/shenv/shenv"
+      "https://github.com/wercker/stern"
     ],
     "launch": {
-      "web_url": "https://github.com/shenv/shenv"
+      "web_url": "https://github.com/wercker/stern"
     }
   },
   "icons": {

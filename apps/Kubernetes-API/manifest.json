@@ -1,14 +1,14 @@
 {
-  "name": "Bash API",
-  "description": "Access Bash API",
+  "name": "Kubernetes API",
+  "description": "Access Kubernetes API",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://www.gnu.org/software/bash/manual/html_node/index.html"
+      "https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands"
     ],
     "launch": {
-      "web_url": "https://www.gnu.org/software/bash/manual/html_node/index.html"
+      "web_url": "https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands"
     }
   },
   "icons": {

@@ -16,21 +16,34 @@ As we can see a subdirectory is created for each Bash app.
 ```bash
 $ ls -la
 total 984
-drwxr-xr-x@  10 enogrob  staff    340 Oct  3 16:42 .
-drwxr-xr-x@ 298 enogrob  staff  10132 Oct  4 02:29 ..
--rw-r--r--@   1 enogrob  staff   6148 Oct  3 16:58 .DS_Store
-drwxr-xr-x   14 enogrob  staff    476 Oct  3 16:54 .git
+drwxr-xr-x@  10 enogrob  staff    340 Jul  2 09:38 .
+drwxr-xr-x@ 405 enogrob  staff  13770 Jul  2 09:33 ..
+-rw-r--r--@   1 enogrob  staff   6148 Oct  4  2020 .DS_Store
+drwxr-xr-x   13 enogrob  staff    442 Jul  2 11:15 .git
 -rw-r--r--    1 enogrob  staff      5 May 31  2016 .gitignore
-drwxr-xr-x   10 enogrob  staff    340 Nov 17  2016 .idea
 -rw-r--r--@   1 enogrob  staff      0 Nov 17  2016 Icon?
--rw-r--r--@   1 enogrob  staff   1892 Oct  4 02:33 README.md
-drwxr-xr-x   19 enogrob  staff    646 Oct  4 02:31 apps
-drwxr-xr-x    4 enogrob  staff    136 Oct  4 02:32 images
+-rw-r--r--@   1 enogrob  staff   1555 Jul  2 09:37 README.md
+drwxr-xr-x   14 enogrob  staff    476 Jul  2 11:26 apps
+drwxr-xr-x    4 enogrob  staff    136 Jul  1 14:30 images
+drwxr-xr-x    4 enogrob  staff    136 Jul  1 06:41 resources
+total 984
 
 $ tree -L 1 apps/
 apps
+├── Kubernetes-API
+├── Kubernetes-Awesome
+├── Kubernetes-Helm
+├── Kubernetes-Homepage
+├── Kubernetes-Katacoda
+├── Kubernetes-Kbenv
+├── Kubernetes-Kubelist
+├── Kubernetes-MicroK8s
+├── Kubernetes-Minikube
+├── Kubernetes-OKB
+├── Kubernetes-Stern
+└── Kubernetes-Wikipedia
 
-17 directories, 0 files
+12 directories, 0 files
 $
 ```
 

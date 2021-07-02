@@ -1,0 +1,17 @@
+{
+  "name": "Kubelist",
+  "description": "Access Kubelist",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://kubelist.com/issue/latest"
+    ],
+    "launch": {
+      "web_url": "https://kubelist.com/issue/latest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

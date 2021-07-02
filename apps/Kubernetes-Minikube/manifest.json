@@ -1,14 +1,14 @@
 {
-  "name": "Kubernetes",
-  "description": "Access Kubernetes",
+  "name": "Minikube",
+  "description": "Access Minikube",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://kubernetes.io"
+      "https://minikube.sigs.k8s.io"
     ],
     "launch": {
-      "web_url": "https://kubernetes.io"
+      "web_url": "https://minikube.sigs.k8s.io"
     }
   },
   "icons": {
