@@ -1,0 +1,17 @@
+{
+  "name": "Visual Guide",
+  "description": "Access Visual Guide",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://learnk8s.io/troubleshooting-deployments"
+    ],
+    "launch": {
+      "web_url": "https://learnk8s.io/troubleshooting-deployments"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
